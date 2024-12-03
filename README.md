@@ -18,7 +18,7 @@ In particular, the following is key information that needs to be presented to th
 
 **Data Dictionary**
 
-In total, information on transactions, customers, products, and logistic suppliers are provided. An extract from the HR database of salespeople information in JSON format is also provided. All of these are available in the data folder.
+In total, information on `transactions`, `customers`, `products`, and `logistic` suppliers are provided. An extract from the HR database of `salespeople` information in JSON format is also provided. All of these are available in the data folder.
 
 ![image](https://github.com/user-attachments/assets/4fd3b014-00c1-4efd-8d43-652f0b85147b)
 
@@ -31,12 +31,4 @@ In total, information on transactions, customers, products, and logistic supplie
 ![image](https://github.com/user-attachments/assets/53988fce-d6a3-4a69-91d3-cca3925cb7ef)
 
 
-
-
-
-
-
-
-
-
-
+**Power BI Report:** Check out my report [here](https://app.powerbi.com/view?r=eyJrIjoiYjZkNDkwZmMtNjU5Mi00MGIyLWIzMTctNTNjY2NlZjY1ZGFjIiwidCI6IjA5YWJlYzJmLWM4NmItNDU1OC1hM2I1LTEyNWQ2NTU5NjViMSJ9)
