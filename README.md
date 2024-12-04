@@ -31,4 +31,4 @@ In total, information on `transactions`, `customers`, `products`, and `logistic`
 ![image](https://github.com/user-attachments/assets/53988fce-d6a3-4a69-91d3-cca3925cb7ef)
 
 
-**Power BI Report:** Check out my report [here](https://app.powerbi.com/view?r=eyJrIjoiYjZkNDkwZmMtNjU5Mi00MGIyLWIzMTctNTNjY2NlZjY1ZGFjIiwidCI6IjA5YWJlYzJmLWM4NmItNDU1OC1hM2I1LTEyNWQ2NTU5NjViMSJ9)
+**Power BI Report:** Check out the interactive report [here](https://app.powerbi.com/view?r=eyJrIjoiYjZkNDkwZmMtNjU5Mi00MGIyLWIzMTctNTNjY2NlZjY1ZGFjIiwidCI6IjA5YWJlYzJmLWM4NmItNDU1OC1hM2I1LTEyNWQ2NTU5NjViMSJ9)
